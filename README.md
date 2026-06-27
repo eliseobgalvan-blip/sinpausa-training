@@ -1,2 +1,2 @@
-# prostandard-training
+# sinpausa-training
 The Training App
